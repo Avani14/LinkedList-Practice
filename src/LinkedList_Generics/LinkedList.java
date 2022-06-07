@@ -41,7 +41,7 @@ public class LinkedList<E> {
         }
 
     }
-    public  <E> void removeAll()
+    public void removeAll()
     {
         head = null;
     }
